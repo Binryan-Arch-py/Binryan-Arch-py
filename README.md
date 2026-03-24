@@ -1,7 +1,7 @@
 # Hi, I'm binryan-arch-py
 ## Real name: Bryan David Pérez Arana
 
-I'm a 12-year-ald developer from Mexico
+I'm a 12-year-old developer from Mexico
 I love minimalistic tools and building things from the terminal
 
 ### Tech Stack
