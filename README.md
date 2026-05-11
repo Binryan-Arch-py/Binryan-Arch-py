@@ -1,11 +1,11 @@
-# Hi, I'm binryan-arch-py
+# Hi, I'm Binryan-void
 ## Real name: Bryan David Pérez Arana
 
 I'm a 12-year-old developer from Mexico
 I love minimalistic tools and building things from the terminal
 
 ### Tech Stack
-* **OS:** Arch Linux (Hyprland WM)
+* **OS:** Void Linux (Niri WM)
 * **Editor:** Neovim (the only one I need)
 * **Lenguajes:** Python, C++ (Learning)
 * **Tools:** Git, Zsh

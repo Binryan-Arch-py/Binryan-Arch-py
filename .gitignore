@@ -1,14 +1,4 @@
-.idea/
-.vscode/
-abrir.py
-binario.py
+COFB/
 calculadoras/
-data.py
-decryptor.py
-dist/
-finanzas/
+env/
 golden/
-ransomware.py
-micropython/
-COF/
-cof/
